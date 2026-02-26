@@ -39,14 +39,6 @@ A comprehensive Java CLI inventory system demonstrating core OOP, Streams, and J
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexis-campos&show_icons=true&theme=radical&hide_border=true" alt="Alexis's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-campos&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
-</div>
-
----
 
 ## 📫 Let's Connect
 
